@@ -1,0 +1,28 @@
+
+Muhammad Ali
+
+Email: ali@gmail.com
+Phone: +92 300 1234567
+Location: Lahore, Pakistan
+
+Professional Summary:
+Python developer with 2 years of experience
+building web applications and backend systems.
+
+Technical Skills:
+Python, Django, FastAPI, PostgreSQL,
+REST APIs, Git, Docker.
+
+Work Experience:
+
+Python Developer at Tech Solutions
+January 2024 - Present
+
+Developed REST APIs using FastAPI and Django.
+Worked with PostgreSQL databases.
+
+Education:
+
+BS Computer Science
+University of Lahore
+Graduated in 2023.

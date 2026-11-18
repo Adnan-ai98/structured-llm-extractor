@@ -1,0 +1,27 @@
+
+INVOICE
+
+Invoice Number: INV-2026-001
+Invoice Date: 10 November 2026
+Due Date: 25 November 2026
+
+Vendor: ABC Technologies
+Customer: XYZ Solutions
+
+Items:
+
+1. Web Development Service
+Quantity: 2
+Unit Price: 50000
+Amount: 100000
+
+2. API Integration
+Quantity: 1
+Unit Price: 25000
+Amount: 25000
+
+Subtotal: 125000
+Tax: 18750
+Total: 143750
+
+Currency: PKR
