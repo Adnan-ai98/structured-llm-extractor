@@ -104,7 +104,7 @@ EDU
 skills:  python,  FastAPI ; Django, SQL/Postgres | Docker, git, Airflow
 ```
 
-### Output (shortened)
+### Output
 
 ```json
 {
@@ -113,19 +113,61 @@ skills:  python,  FastAPI ; Django, SQL/Postgres | Docker, git, Airflow
     "phone": null,
     "location": "Lahore",
     "professional_summary": "i'm a software guy, mostly python & some web stuff. love automating boring things.",
-    "skills": ["Python", "FastAPI", "Django", "SQL", "Postgres", "Docker", "Git", "Airflow", "Pandas", "NumPy", "React"],
+    "skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "SQL",
+        "Postgres",
+        "Docker",
+        "Git",
+        "Airflow",
+        "Pandas",
+        "NumPy",
+        "React"
+    ],
     "experience_years": null,
     "work_experience": [
         {
             "company": "TechNova Solutions",
             "job_title": "Senior Python Dev",
             "duration": "03/2022 - present",
-            "responsibilities": ["built REST APIs w/ FastAPI, ~40 endpoints"]
+            "responsibilities": [
+                "built REST APIs w/ FastAPI, ~40 endpoints",
+                "moved nightly jobs from cron to Airflow (saved approx 5 hrs/week)",
+                "mentoring 2 juniors"
+            ]
+        },
+        {
+            "company": "DataBridge Pvt Ltd",
+            "job_title": "Python Developer",
+            "duration": "Jan 2020 to Feb 2022",
+            "responsibilities": [
+                "wrote scrapers + cleaning pipelines (pandas)",
+                "Dockerized 6 services",
+                "helped w/ SQL optimisation"
+            ]
+        },
+        {
+            "company": "Webify Studio",
+            "job_title": "Intern",
+            "duration": "summer 2019 (3 months)",
+            "responsibilities": [
+                "fixed bugs in Django app"
+            ]
         }
     ],
     "education": [
-        {"degree": "BS Computer Science", "institution": "FAST-NUCES", "graduation_year": "2019"},
-        {"degree": "F.Sc Pre-Engineering", "institution": "Punjab College", "graduation_year": "2015"}
+        {
+            "degree": "BS Computer Science",
+            "institution": "FAST-NUCES",
+            "graduation_year": "2019"
+        },
+        {
+            "degree": "F.Sc Pre-Engineering",
+            "institution": "Punjab College",
+            "graduation_year": "2015"
+        }
     ]
 }
 ```
