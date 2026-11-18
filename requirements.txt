@@ -1,4 +1,3 @@
-
-google-genai
-pydantic
-python-dotenv
+google-genai==3.4.0
+pydantic==2.14.3
+python-dotenv==1.2.4
